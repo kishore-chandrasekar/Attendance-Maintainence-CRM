@@ -9,7 +9,7 @@ function Dashboard() {
                     class="fas fa-download fa-sm text-white-50"></i> Generate Report</a>
             </div>
             <div class="row">
-                <h2>Total No of Students - 25</h2>
+                <h2>Total No of Students - 25 </h2>
             </div>
         </>
     )
