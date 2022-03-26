@@ -50,7 +50,7 @@ function Studentlist() {
                                         <td>{student.name}</td>
                                         <td><img src={student.avatar}></img></td>
                                         <td>
-                                           <Link to={`/student/${student.id}`}> <button className="btn btn-primary ">Veiw</button></Link>
+                                           <Link to={`/student/${student.id}`}> <button className="btn btn-primary ">View</button></Link>
                                             </td>
 
                                     </tr>
